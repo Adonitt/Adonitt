@@ -31,8 +31,8 @@
 
 | Project | Tech Stack | Frontend | Backend |
 |---------|------------|----------|---------|
-| Expense Tracker System | Java, Spring Boot, MySQL | - | [Repo](https://github.com/Adonitt/Expense-Tracker-System) |
-| School Management System | Java, Spring Boot, MySQL, Vue.js | [Vue.js Repo](https://github.com/Adonitt/E-School-System-Vue-Js) | [REST API Repo](https://github.com/Adonitt/E-School-System-RestApi) |
+| Expense Tracker System | Java, Spring Boot, PostgreSQL | - | [Repo](https://github.com/Adonitt/Expense-Tracker-System) |
+| School Management System | Java, Spring Boot, PostgreSQL, Vue.js | [Vue.js Repo](https://github.com/Adonitt/E-School-System-Vue-Js) | [REST API Repo](https://github.com/Adonitt/E-School-System-RestApi) |
 | Online Voting System | Java, Spring Boot, PostgreSQL, Vue.js | [Vue.js Repo](https://github.com/Adonitt/Online-Voting-System---VueJs) | [REST API Repo](https://github.com/Adonitt/Online-Voting-System) |
 | TV Provider | Java, Spring Boot, Vue.js | - | [Repo](https://github.com/Adonitt/TV-Provider) |
 | Caffe System | Javascript | [Repo](https://github.com/Adonitt/Caffe-System) | - |
