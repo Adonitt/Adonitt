@@ -44,5 +44,5 @@
 ## 🔗 Let's Connect
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-🌐-blue?style=for-the-badge)](https://adonithalili.netlify.app)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-💼-0077B5?style=for-the-badge)](https://www.linkedin.com/in/adonit-halili-639b432b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  [![Email](https://img.shields.io/badge/Email-✉️-D14836?style=for-the-badge)](mailto:adonit.ha12@gmail.com)  [![CV](https://img.shields.io/badge/CV-📄-green?style=for-the-badge)](https://adonithalili.netlify.app/Adonit%20Halili%20-%20CV.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-🌐-blue?style=for-the-badge)](https://adonithalili.netlify.app)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-💼-0077B5?style=for-the-badge)](https://www.linkedin.com/in/adonit-halili-639b432b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  [![Email](https://img.shields.io/badge/Email-✉️-D14836?style=for-the-badge)](mailto:adonit.ha12@gmail.com)  [![CV](https://img.shields.io/badge/CV-📄-green?style=for-the-badge)]([https://adonithalili.netlify.app/Adonit%20Halili%20-%20CV.pdf](https://adonithalili.netlify.app/Adonit-Halili%20-%20CV.pdf))
 
