@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  A motivated developer 💻 with a strong problem-solving mindset 🧠 and a passion for learning new technologies 🚀.  
-  I focus on building efficient, user-friendly solutions 🛠️ and contributing to team success 🤝.
+  A motivated developer with a strong problem-solving mindset and a passion for learning new technologies.  
+  I focus on building efficient, user-friendly solutions and contributing to team success.
 </p>
 
 ---
